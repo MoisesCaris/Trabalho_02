@@ -5,7 +5,7 @@ Library    SeleniumLibrary
 ${LOGIN_PAGE}         http://localhost:8080/index.html
 ${BROWSER}            chrome
 ${VALID_USER}         admin
-${VALID_PASSWORD}     123456
+${VALID_PASSWORD}     12345
 ${INVALID_USER}       errado
 ${INVALID_PASSWORD}   000000
 
